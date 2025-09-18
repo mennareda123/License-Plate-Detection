@@ -51,7 +51,7 @@ Ultralytics (YOLO)
 
 Numpy
 
-Install all dependencies with:
+Or install them manually:
 
 pip install streamlit opencv-python ultralytics numpy
 
